@@ -1,8 +1,9 @@
 <div align="center">
 <h1 align="center">Hi, I am Wilder👋</h1>
 </div>
-<img align="center" src="https://i.imgur.com/lYp5vYj.jpg">
-
+<div align="center">
+<img  src="https://i.imgur.com/lYp5vYj.jpg">
+</div>
 ## About Me
 
 Hi there, My name is Wilder!
