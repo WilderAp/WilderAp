@@ -33,16 +33,16 @@ And here I am now, glad that you are reading this, and hoping to get in contact 
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>This is my personal portfolio in which I upload all of my recent projects and skills :), Want to take a look?! :D .</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">B&R - Busqueda y Rescate</h3>
 <div align="center">                                       
-<a href="https://github.com/WilderAP" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/WilderAp" target="_blank"><img src="https://i.imgur.com/vVJGz6g.png" width="400" alt="Final Henry Project BYR"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
@@ -52,7 +52,7 @@ And here I am now, glad that you are reading this, and hoping to get in contact 
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>THIS IS MY TEAM hENRY fINAL PROJECT, WHERE WE DESIGNED AND CREATED A MISSING PEOPLE WEBSITE, IN WHICH YOU CAN HELP TO FIND THEM.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
