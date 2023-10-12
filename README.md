@@ -26,12 +26,12 @@ And here I am now, glad that you are reading this, and hoping to get in contact 
 <div align="center">
 <a href="https://wilder-personal-portfolio.vercel.app/" target="_blank"><img src="https://i.imgur.com/f3Tg1jA.png" width="400" alt="Portfolio"></a>
 <p>
-<a href="https://wilder-personal-portfolio.vercel.app/" target="_blank">
+<a href="https://github.com/WilderAp/Personal-Portfolio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://wilder-personal-portfolio.vercel.app/" target="_blank">
+<!-- <a href="https://wilder-personal-portfolio.vercel.app/" target="_blank"> -->
 <!-- <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40"> -->
-</a>
+<!-- </a> -->
 </p>
 <p>This is my personal portfolio in which I upload all of my recent projects and skills :), Want to take a look?! :D .</p>
 </div>
@@ -42,15 +42,15 @@ And here I am now, glad that you are reading this, and hoping to get in contact 
                <br>
 <h3 align="center">B&R - Busqueda y Rescate</h3>
 <div align="center">                                       
-<a href="https://github.com/WilderAp" target="_blank"><img src="https://i.imgur.com/vVJGz6g.png" width="400" alt="Final Henry Project BYR"></a>
+<a href="https://pf-b-r-front-end.vercel.app/" target="_blank"><img src="https://i.imgur.com/vVJGz6g.png" width="400" alt="Final Henry Project BYR"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/luismosca/PF-B_R-FrontEnd" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
+<!-- <a href="https://youtu.be/hhhSMXi0R3E" target="_blank"> -->
+<!-- <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f"> -->
+<!-- </a> -->
 </p>
 </p>THIS IS MY TEAM hENRY fINAL PROJECT, WHERE WE DESIGNED AND CREATED A MISSING PEOPLE WEBSITE, IN WHICH YOU CAN HELP TO FIND THEM.</p>
 </div>                                                             
