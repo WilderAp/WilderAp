@@ -24,7 +24,7 @@ And here I am now, glad that you are reading this, and hoping to get in contact 
 <td width="50%">
 <h3 align="center">MY PORTFOLIO! </h3>
 <div align="center">
-<a href=""https://github.com/WilderAp" target="_blank"><img src="https://i.imgur.com/f3Tg1jA.png" width="400" alt="Portfolio"></a>
+<a href="https://wilder-personal-portfolio.vercel.app/" target="_blank"><img src="https://i.imgur.com/f3Tg1jA.png" width="400" alt="Portfolio"></a>
 <p>
 <a href="https://github.com/WilderAp/Personal-Portfolio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
