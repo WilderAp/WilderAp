@@ -26,11 +26,11 @@ And here I am now, glad that you are reading this, and hoping to get in contact 
 <div align="center">
 <a href=""https://github.com/WilderAp" target="_blank"><img src="https://i.imgur.com/f3Tg1jA.png" width="400" alt="Portfolio"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/WilderAp/Personal-Portfolio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://wilder-personal-portfolio.vercel.app/" target="_blank">
+<!-- <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40"> -->
 </a>
 </p>
 <p>This is my personal portfolio in which I upload all of my recent projects and skills :), Want to take a look?! :D .</p>
