@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I am Wilder👋</h1>
 </div>
-<img src="https://imgur.com/lYp5vYj">
+<img src="https://i.imgur.com/lYp5vYj.jpg">
 
 ## About Me
 
