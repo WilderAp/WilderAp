@@ -16,7 +16,7 @@ knowledge in such a way that I can become a well/expert/advanced person and deve
 I started coding this year when I got interested in working from home and also have a full-time job that gives me professional improvement
 And here I am now, glad that you are reading this, and hoping to get in contact with you! :) And any chance would not go to waste ;)
 
-Currently learning [TypeScript] & [React Native]
+Currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" /> [TypeScript] & <img src="https://www.iteachrecruiters.com/img/blog/logo/react-native.png" /> [React Native] 
 
 
 ## Proyectos
