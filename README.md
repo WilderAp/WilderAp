@@ -26,7 +26,7 @@ And here I am now, glad that you are reading this, and hoping to get in contact 
 <div align="center">
 <a href="https://wilder-personal-portfolio.vercel.app/" target="_blank"><img src="https://i.imgur.com/f3Tg1jA.png" width="400" alt="Portfolio"></a>
 <p>
-<a href="https://github.com/WilderAp/Personal-Portfolio" target="_blank">
+<a href="https://wilder-personal-portfolio.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://wilder-personal-portfolio.vercel.app/" target="_blank">
